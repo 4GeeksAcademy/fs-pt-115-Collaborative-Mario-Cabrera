@@ -11,7 +11,5 @@ body{
     background-size: cover ;
     background-repeat: no-repeat;
     background-position: bottom;
-    height: 50%;
-    padding-top: 20px;
-    padding-bottom: 350px;
+    height: 500px;
 }
