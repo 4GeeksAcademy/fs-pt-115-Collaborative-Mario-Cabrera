@@ -1,3 +1,15 @@
 body{
-    background: #BDBDBD;
+    background: black;
+    width: 75%;
+    margin: auto;
+}
+.fondo{
+    background-color: white;
+}
+.hero-bg{
+    background-image: url(../img/bg.jpg);
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 500px;
 }
