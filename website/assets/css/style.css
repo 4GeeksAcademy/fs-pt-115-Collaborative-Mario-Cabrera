@@ -1,6 +1,18 @@
 body{
     background: #BDBDBD;
 }
-.cardh5{
-    color: blue;
+.fondo{
+    background-color: white;
+}
+.hero-bg{
+    background-image: url(../img/bg.jpg);
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 500px;
+}
+.contactform{
+    border: rgb(219, 219, 219) solid 2px;
+    border-radius: 1%;
+    background: rgb(235, 235, 235);
 }
