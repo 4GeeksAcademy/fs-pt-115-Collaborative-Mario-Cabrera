@@ -1,5 +1,7 @@
 body{
-    background: #BDBDBD;
+    background: black;
+    width: 70%;
+    margin: auto; 
 }
 .fondo{
     background-color: white;
@@ -15,4 +17,7 @@ body{
     border: rgb(219, 219, 219) solid 2px;
     border-radius: 1%;
     background: rgb(235, 235, 235);
+}
+p.text-muted{
+    font-size: 25px;
 }
